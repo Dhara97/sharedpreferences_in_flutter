@@ -2,6 +2,8 @@
 
 A new Flutter application.
 
+In this application Login and Logout functionality is performed using shared preferences and also implementation of using API is also done.
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
